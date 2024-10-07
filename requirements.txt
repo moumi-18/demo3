@@ -1,6 +1,0 @@
-streamlit
-opencv-python
-numpy
-mysql-connector-python
-ultralytics
-Pillow
